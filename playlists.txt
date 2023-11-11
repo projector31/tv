@@ -1,2 +1,2 @@
-demo_greek_tv*https://raw.githubusercontent.com/projector31/tv/main/demo_greek_tv.m3u
-demo_greek_radio*https://raw.githubusercontent.com/projector31/tv/main/demo_greek_radio.m3u
+demo_greek_tv
+demo_greek_radio
