@@ -1,4 +1,4 @@
-#EXTM3U remote-uri="https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/android.m3u" url-tvg="https://github.com/GreekTVApp/EPG-GRCY/releases/download/EPG/epg.xml.gz" bp-index="0,0,0" bp-ignore-group="" bp-all-groups="" use-api="" api-action=""
+#EXTM3U remote-uri="https://raw.githubusercontent.com/projector31/tv/main/list.m3u" url-tvg="https://github.com/GreekTVApp/EPG-GRCY/releases/download/EPG/epg.xml.gz" bp-index="0,0,0" bp-ignore-group="" bp-all-groups="" use-api="" api-action=""
 #EXTINF:14392, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" bp-pos="13119" tvg-id="" tvg-name="ERT 1" url-epg="" tvg-logo="https://i.imgur.com/slE8U5m.png", ERT1 HD
 http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert1/ert_ev1_main/mainabr/playlist_dvr.m3u8
 #EXTINF:-1, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" bp-pos="0" tvg-id="" tvg-name="ERT 2" url-epg="" tvg-logo="https://i.imgur.com/o4BUdoL.png", ERT2 HD
