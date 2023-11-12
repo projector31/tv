@@ -1,4 +1,4 @@
-#EXTM3U remote-uri="https://main/test.m3u" url-tvg="" 
+#EXTM3U remote-uri="https://raw.githubusercontent.com/projector31/tv/main/demo_greek_radio.m3u" url-tvg="" 
 #EXTINF:0,BEST RADIO 92.6
 http://best.live24.gr/best1222
 #EXTINF:0,KISS FM 92.9
