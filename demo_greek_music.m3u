@@ -1,4 +1,4 @@
-#EXTM3U remote-uri="https://main/test.m3u" url-tvg="" bp-index="6,6,0" bp-ignore-group="" bp-all-groups="" use-api="" api-action=""
+#EXTM3U remote-uri="https://raw.githubusercontent.com/projector31/tv/main/demo_greek_music.m3u" url-tvg="" bp-index="6,6,0" bp-ignore-group="" bp-all-groups="" use-api="" api-action=""
 #EXTINF:285, group-title="" bp-pos="0" tvg-id="" tvg-name="Κόκκινα Φανάρια (Οργανικό) | Kokkina Fanaria (Instrumental) (Official Audio Video)" url-epg="" tvg-logo="https://i.ytimg.com/vi/Vz0M8QlPjC0/mqdefault.jpg", Κόκκινα Φανάρια (Οργανικό) | Kokkina Fanaria (Instrumental) (Official Audio Video)
 https://www.youtube.com/watch?v=Vz0M8QlPjC0
 #EXTINF:141, group-title="" bp-pos="0" tvg-id="" tvg-name="Horos Se 11/8" url-epg="" tvg-logo="https://i.ytimg.com/vi/DpaKjT6vU4M/mqdefault.jpg", Horos Se 11/8
